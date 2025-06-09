@@ -101,7 +101,7 @@
 <body>
 
   <header>
-    <h1>TRABALHE NA UP LIFE EDUCACIONAL</h1>
+    <h1>UP LIFE EDUCACIONAL | OPORTUNIDADES QUE TRANSFORMAM VIDAS</h1>
   </header>
 
   <main>
